@@ -1,4 +1,4 @@
-class App extends Component {
+class xoxonx extends Component {
 render() {
 	return (
 	<Router>
