@@ -1,4 +1,4 @@
-//index.js File
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Demo from './App';
